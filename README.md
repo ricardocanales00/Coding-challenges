@@ -1,2 +1,2 @@
-# coding-challenges
-This repository will host the different coding challenges I have solved from online platforms such as leetcode, hacker rank, etc.
+# Coding challenges
+Welcome to my Coding Practice Playground! This GitHub repository is a collection of solutions and code samples from various coding platforms, including LeetCode and other popular coding challenge websites. As a passionate coder and lifelong learner, I've created this repository to share my journey of mastering algorithms and data structures, and I'm excited to have you join me on this coding adventure.
